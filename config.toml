@@ -1,0 +1,3 @@
+baseURL = 'https://kubeberth.github.io/'
+languageCode = 'ja'
+title = 'KubeBerth ドキュメント'
